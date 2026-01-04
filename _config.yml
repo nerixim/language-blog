@@ -2,3 +2,8 @@ title: Foreign languages study blog
 theme: minima
 markdown: kramdown
 permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
