@@ -1,3 +1,9 @@
+---
+layout: default
+title: ロシア語名詞の格変化
+permalink: /grammar/nouns/
+---
+
 # ロシア語名詞の格変化（単数）
 
 ---
